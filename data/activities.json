@@ -19,7 +19,8 @@
     "summary": "The safest all-weather pick. The toddler-centered spaces make it easy to let a small kid roam without overcomplicating the day.",
     "plan": "Aim for an early slot, spend most of the visit in Totally Tots / sensory-forward areas, then do a short snack break before the ride back.",
     "tips": ["Excellent rainy or cold-weather option.", "Easy to keep the outing to 90 minutes if needed.", "Bring a change of clothes if your kid loves hands-on play."],
-    "sourceUrl": "https://www.brooklynkids.org/"
+    "sourceUrl": "https://www.brooklynkids.org/",
+    "imageUrl": "https://www.brooklynkids.org/wp-content/uploads/2026/03/Classical-Kids-Fair-2025-web-res-photo-credit-Winston-Williams-Brooklyn-Childrens-Museum-003-1400x934.jpg"
   },
   {
     "slug": "new-york-transit-museum",
@@ -30,7 +31,8 @@
     "summary": "Big payoff if your kid likes buses, trains, buttons, maps, or anything with wheels. The vintage subway cars are usually the highlight.",
     "plan": "Keep expectations simple: one pass through the exhibits, extra time in the train cars, then a snack nearby.",
     "tips": ["Very good backup for messy weather.", "Can feel exciting without needing a full-day commitment.", "Best if your kid already loves transit."],
-    "sourceUrl": "https://www.nytransitmuseum.org/"
+    "sourceUrl": "https://www.nytransitmuseum.org/",
+    "imageUrl": "https://www.nytransitmuseum.org/wp-content/uploads/2025/11/hero-right-station-1200x585.webp"
   },
   {
     "slug": "prospect-park-zoo",
@@ -41,7 +43,8 @@
     "summary": "Compact enough for toddler attention spans, with enough animal payoff to feel like a real outing instead of a chore.",
     "plan": "Do the animal buildings first while attention is highest, then finish with a playground or park walk if energy allows.",
     "tips": ["Pair well with a short Prospect Park loop.", "Good balance of outdoor and indoor time.", "Easier than a giant zoo with a stroller."],
-    "sourceUrl": "https://prospectparkzoo.com/"
+    "sourceUrl": "https://prospectparkzoo.com/",
+    "imageUrl": "https://cdn.wcs.org/2022/05/23/7pyaa684xo_Julie_Larsen_Maher_2297_North_American_River_Otters_PPZ_04_07_21_1_2x.jpg"
   },
   {
     "slug": "janes-carousel-brooklyn-bridge-park",
@@ -52,6 +55,7 @@
     "summary": "Carousel ride, waterfront views, and enough room for a stroller-friendly wander. Good when the adults also want the outing to feel pleasant.",
     "plan": "Ride the carousel early, then walk the park and let the toddler lead the pace.",
     "tips": ["Best in decent weather.", "Easy to pair with coffee/snack for the grown-up.", "Less ideal in wind or cold."],
-    "sourceUrl": "https://janescarousel.com/"
+    "sourceUrl": "https://janescarousel.com/",
+    "imageUrl": "https://janescarousel.com/assets/carousel-bg-home.jpg"
   }
 ]
