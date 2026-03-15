@@ -1,0 +1,9 @@
+{
+  "name": "toddler-activities-brooklyn",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-site.mjs",
+    "publish:week": "node scripts/publish-week.mjs"
+  }
+}
